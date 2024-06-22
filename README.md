@@ -15,3 +15,20 @@ git commit -m"blablabla": commita as mudanças
 git log: histórico de commits
 
 git remote add origin ***LINK PARA O REPOSITORIO***: relaciona o repositório local com um repositório remoto no seu github
+
+git push -u origin main: commita as alterações pro repositório remoto
+
+git pull: envia as alterações feitas no repositório remoto pro repositório local
+
+git checkout -b ***nome da branch nova***: cria uma nova branch e troca pra ela
+
+git checkout main: troca de volta pra main
+
+git branch -v: lista os ultimos commits de cada branch
+
+git merge ***nome da branch***: une a main com a branch especificada
+
+git branch -d ***noem da branch***: exclui a branch selecionada
+
+git branch: lista as branchs existentes
+
